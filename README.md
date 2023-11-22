@@ -28,8 +28,8 @@ I have experience in the following programming languages and technologies:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)](https://github.com/prakashpawar4u)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)](https://www.linux.org/)
 [![Kaggle](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge)](https://www.kaggle.com/prakashpawar4u)
-[!Docker](https://img.shields.io/badge/Docker%20-FDEE21?style=for-the-badge)
-[!Kubernetes](https://img.shields.io/badge/Kubernetes-2186E4?style=for-the-badge)
+[![Docker](https://img.shields.io/badge/Docker%20-FDEE21?style=for-the-badge)]
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-2186E4?style=for-the-badge)]
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-prakashpawar4u%40gmail.com-blue.svg)](mailto:prakashpawar4u@gmail.com)
 
