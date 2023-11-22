@@ -16,7 +16,7 @@ I have experience in the following programming languages and technologies:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2186E4?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-004A9E?style=for-the-badge&logo=sql&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge)
@@ -28,8 +28,8 @@ I have experience in the following programming languages and technologies:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)](https://github.com/prakashpawar4u)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)](https://www.linux.org/)
 [![Kaggle](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge)](https://www.kaggle.com/prakashpawar4u)
-[![Docker](https://img.shields.io/badge/Docker%20-FDEE21?style=for-the-badge)]
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-2186E4?style=for-the-badge)]
+![Docker](https://img.shields.io/badge/SciPy-FDEE21?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Keras-FF6F61?style=for-the-badge)
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-prakashpawar4u%40gmail.com-blue.svg)](mailto:prakashpawar4u@gmail.com)
 
