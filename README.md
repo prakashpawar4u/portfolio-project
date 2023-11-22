@@ -2,13 +2,13 @@
 
 [![Prakash Kumar Pawar](https://img.shields.io/badge/Prakash%20Kumar%20Pawar-000?style=for-the-badge&logo=github&logoWidth=69&logoHeight=69)](https://github.com/prakashpawar4u/)
 
-👋 Hello, I'm [Prakash]!
+👋 Hello, I'm Prakash!
 
 🚀 As a seasoned telecom professional with 9 years of hands-on experience, I've honed my skills in Python development and embraced cutting-edge technologies like Docker and Kubernetes. Currently navigating the exciting realms of Artificial Intelligence and Machine Learning, I'm on a journey to become a versatile data scientist.
 
 🌐 My GitHub is a canvas where I paint with code, showcasing my love for open source and passion for innovation. From telecom projects that have shaped my career to forays into data science with Python's powerful tools (think Numpy and Pandas), my repositories are a reflection of my technical prowess and commitment to continuous learning.
 
-*I have experience in the following programming languages and technologies:*
+I have experience in the following programming languages and technologies:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -36,18 +36,18 @@ If you'd like to get in touch or collaborate, you can reach me at [![Email](http
 
 ## 1.Education
 
-<img src="https://www.iitr.ac.in/nsc2019/static/media/IITR_new_logo_color.b3fdd3ee.png" alt="IIT Roorkee Logo" width="27">Post Graduate Programme at :![CloudX Labs](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
+<img src="https://cmsredesign.channeli.in/library/assets/images/iitrLogo.png" alt="IIT Roorkee Logo" width="27">Post Graduate Programme at :![CloudX Labs](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="RGTU Logo" width="27">**Rajiv Gandhi Technical University BE ECE** (https://img.shields.io/badge/81%25-4287f5?style=for-the-badge)
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="RGTU Logo" width="27">**Rajiv Gandhi Technical University BE ECE** 
 
+**12th Board: 2008**
 
-
-<img src="https://github.com/RaghavAP369/Images/raw/main/saraswathi%20vidyanik.png" alt="Your Logo" width="27">  **10th Board:**![80%](https://img.shields.io/badge/80%25-4287f5?style=for-the-badge)
+**10th Board: 2006**
 
 ## 2.Work Experience
-![Mavenir Systems Pvt Ltd](https://img.shields.io/badge/Amity%20Global%20Business%20School-9ED0E6?style=for-the-badge)
-![HCL Technologies Pvt Ltd](https://img.shields.io/badge/Amity%20Global%20Business%20School-9ED0E6?style=for-the-badge)
-![Alcatel Lucent Pvt Ltd](https://img.shields.io/badge/Amity%20Global%20Business%20School-9ED0E6?style=for-the-badge)
+![Mavenir Systems Pvt Ltd](https://img.shields.io/badge/Mavenir%20Systems%20Pvt%20Ltd-9ED0E6?style=for-the-badge)
+![HCL Technologies Pvt Ltd](https://img.shields.io/badge/HCL%20Technologies%20Limited[Cisco]-9ED0E6?style=for-the-badge)
+![Alcatel Lucent Pvt Ltd](https://img.shields.io/badge/Alcatel%20Lucent%20Technologies%20[S2 Infotech]-9ED0E6?style=for-the-badge)
 
 Thank you for visiting my GitHub portfolio!
 ## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:prakashpawar4u@gmail.com)
