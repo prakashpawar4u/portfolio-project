@@ -28,15 +28,15 @@ I have experience in the following programming languages and technologies:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)](https://github.com/prakashpawar4u)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)](https://www.linux.org/)
 [![Kaggle](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge)](https://www.kaggle.com/prakashpawar4u)
-![Docker](https://img.shields.io/badge/SciPy-FDEE21?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Keras-FF6F61?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-FDEE21?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF6F61?style=for-the-badge)
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-prakashpawar4u%40gmail.com-blue.svg)](mailto:prakashpawar4u@gmail.com)
 
 ## 1.Work Experience
 ![Mavenir Systems Pvt Ltd](https://img.shields.io/badge/Mavenir%20Systems%20Pvt%20Ltd-9ED0E6?style=for-the-badge)
 ![HCL Technologies Pvt Ltd](https://img.shields.io/badge/HCL%20Technologies%20Limited[Cisco]-9ED0E6?style=for-the-badge)
-![S2 Infotech](https://img.shields.io/badge/S2%20Infotech%20ALU%20-9ED0E6?style=for-the-badge)
+![S2 Infotech](https://img.shields.io/badge/S2%20Infotech%20[ALU]%20-9ED0E6?style=for-the-badge)
 
 ## 2.Education
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="RGTU Logo" width="27">**Rajiv Gandhi Technical University BE ECE** 
