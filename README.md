@@ -33,21 +33,19 @@ I have experience in the following programming languages and technologies:
 
 If you'd like to get in touch or collaborate, you can reach me at [![Email](https://img.shields.io/badge/Email-prakashpawar4u%40gmail.com-blue.svg)](mailto:prakashpawar4u@gmail.com)
 
+## 1.Work Experience
+![Mavenir Systems Pvt Ltd](https://img.shields.io/badge/Mavenir%20Systems%20Pvt%20Ltd-9ED0E6?style=for-the-badge)
+![HCL Technologies Pvt Ltd](https://img.shields.io/badge/HCL%20Technologies%20Limited[Cisco]-9ED0E6?style=for-the-badge)
+![Alcatel Lucent Pvt Ltd](https://img.shields.io/badge/Alcatel%20Lucent%20Technologies%20S2 Infotech-9ED0E6?style=for-the-badge)
 
-## 1.Education
-
-<img src="https://cmsredesign.channeli.in/library/assets/images/iitrLogo.png" alt="IIT Roorkee Logo" width="27">Post Graduate Programme at :![CloudX Labs](https://img.shields.io/badge/IIT%20Roorkee-FF6F61?style=for-the-badge)
-
+## 2.Education
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="RGTU Logo" width="27">**Rajiv Gandhi Technical University BE ECE** 
 
 **12th Board: 2008**
 
 **10th Board: 2006**
 
-## 2.Work Experience
-![Mavenir Systems Pvt Ltd](https://img.shields.io/badge/Mavenir%20Systems%20Pvt%20Ltd-9ED0E6?style=for-the-badge)
-![HCL Technologies Pvt Ltd](https://img.shields.io/badge/HCL%20Technologies%20Limited[Cisco]-9ED0E6?style=for-the-badge)
-![Alcatel Lucent Pvt Ltd](https://img.shields.io/badge/Alcatel%20Lucent%20Technologies%20[S2 Infotech]-9ED0E6?style=for-the-badge)
+
 
 Thank you for visiting my GitHub portfolio!
 ## [![Contact](https://img.shields.io/badge/Contact-Me-blue.svg)](mailto:prakashpawar4u@gmail.com)
